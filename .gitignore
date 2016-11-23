@@ -1,10 +1,23 @@
 #Android generated
-bin gen
+bin
+gen
+
 #Eclipse
-.project .classpath .settings
+.project
+.classpath
+.settings
+
 #IntelliJ IDEA
-.idea *.iml *.ipr *.iws out local.properties
+.idea
+*.iml
+*.ipr
+*.iws
+out
+local.properties
+
 #OSX
 .DS_Store
+
 #Gradle
-.gradle build
+.gradle
+build
