@@ -1,8 +1,10 @@
-*.iml
-.gradle
-/local.properties
-/.idea/workspace.xml
-/.idea/libraries
+#Android generated
+bin gen
+#Eclipse
+.project .classpath .settings
+#IntelliJ IDEA
+.idea *.iml *.ipr *.iws out local.properties
+#OSX
 .DS_Store
-/build
-/captures
+#Gradle
+.gradle build
