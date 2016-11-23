@@ -1,8 +1,23 @@
+#Android generated
+bin
+gen
+
+#Eclipse
+.project
+.classpath
+.settings
+
+#IntelliJ IDEA
+.idea
 *.iml
-.gradle
-/local.properties
-/.idea/workspace.xml
-/.idea/libraries
+*.ipr
+*.iws
+out
+local.properties
+
+#OSX
 .DS_Store
-/build
-/captures
+
+#Gradle
+.gradle
+build
